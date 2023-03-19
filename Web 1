@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title> HTML PRAC </title>
+    </head>
+    <BODY bgcolor="RED" background="">
+        // Table
+        <table border="3">
+            <tr><th>Gonna</th><th>Wanna</th></tr>
+            <tr><td>Gonna</td><td>Wanna</td></tr>
+        </table>
+        <br>
+        <br>
+        // Table Tag with Attribute
+        <table border="3">
+            <tr><th rowspan=2>Maths</th><th colspan=2>LD  & MDP</th></tr>
+            <tr><th>10</th><th>10</th></tr>
+            <tr><th rowspan=2>English</th><th>10</th><th>10</th></tr>
+            <tr><th colspan=2>LD & MDP</th></tr>
+        </table>
+
+        <br>
+        <br>
+
+        //Paragraph Tag
+        <p>
+            HTML PRAC
+        </p>
+        
+        <br>
+        <br>
+        // Marquee Tag & HR Tag
+        <marquee behavior="alternate" direction="left"><hr width="90%" size="3" color="black"></marquee>
+        <br>
+        <br>
+        //Order list
+        <ol type="A" start="1"> <b>List of Item</b>
+            <li>Moniter</li>
+            <li>Mouse</li>
+        </ol>
+        // Unorder List
+        <ul type ="Circle">
+            <li>Moniter</li>
+            <li>Mouse</li>
+        </ul>    
+
+        // Image Tag
+        <br>
+        <img src="C:\Users\dell\Downloads\wall.jpg" height=100 width=200 >  
+
+        <br>
+        <br>
+        
+    </BODY>
+</html>
